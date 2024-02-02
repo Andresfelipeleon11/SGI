@@ -21,7 +21,7 @@ export default {
    <ul v-for="(frutas, key) in fruta" :key="key">
     <li >{{ frutas }}</li>
    </ul>
-
+   <h1>Hola</h1>
 </template>
 
 
