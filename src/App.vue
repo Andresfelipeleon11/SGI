@@ -1,10 +1,19 @@
+
+
 <script lang="ts">
 
-let fruta = ['fresa', 'mango', 'kiwi']
+export default {
+    components: {
+        
+    },
+   setup(){
+    let fruta = ['banana', 'maca', 'laranja', 'abacaxi'];
 
-
-
-
+    return{
+      fruta
+    }
+   }
+}
 </script>
 
 <template>
