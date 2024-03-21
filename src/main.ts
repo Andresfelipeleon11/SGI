@@ -1,7 +1,7 @@
 import './assets/main.css'
 
 import { createApp } from 'vue'
-import App from './index.vue'
+import App from './vistaIncial.vue'
 
 
 // import router from './router'
